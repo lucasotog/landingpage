@@ -1,0 +1,268 @@
+.nav-link {
+  width: 150px;
+  height: 30px;
+  font-size: 25.8px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  color: #eff1f5;
+}
+
+  .nav-link:hover {
+    width: 150px;
+    height: 30px;
+    font-size: 25.8px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #fff;
+    transform: scale(1.5);
+}
+
+.logo {
+  width: 47.3px;
+  height: 47.3px;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar:hover {
+  color: #fff
+}
+
+.btn {
+  background-color: #682736;
+  border-color: #682736;
+  margin-top: 30px;
+  border-radius: 50px;
+  width: 280px;
+  height: 80px;
+  font-size: 30px;
+}
+
+#landing {
+  background-color: #682736;
+  background-size: cover;
+  height: 920px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.TomWood {
+  margin-top: 0;
+  width: 341px;
+  height: 49px;
+  font-size: 50.2px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0.96;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
+
+.nav {
+  width: 365px;
+  height: 30px;
+  font-size: 25.8px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+}
+
+.nav2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  text-decoration: none;
+}
+
+.nav2.footer {
+  width: 40%;
+  text-decoration: none;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #682736;
+  z-index: 1;
+}
+
+.BetterWorld {
+  width: 447px;
+  height: 49px;
+  opacity: 0.75;
+  font-size: 31.5px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
+
+.landingtext {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.navbar-brand image {
+  width: 1280px;
+}
+
+.profile {
+  height: 200px;
+  border-radius: 20000px;
+  margin-bottom: 40px;
+}
+
+.section2 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px;
+}
+
+.TomWood2 {
+  width: 211px;
+  height: 52px;
+  font-size: 44px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #181818;
+}
+
+.uxdesigner {
+  width: 179px;
+  height: 39px;
+  font-size: 32px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a2a2a2;
+}
+
+.lorem {
+  margin-top: 78px;
+  width: 859px;
+  height: 210px;
+  font-size: 30px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.4;
+  letter-spacing: normal;
+  text-align: center;
+  color: #7a7a7a;
+}
+
+.section3 {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.portfolio {
+  background-image: url("../images/ju.jpg");
+  background-size: cover;
+  height: 1284px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.myportfolio {
+  width: 427px;
+  height: 94px;
+  font-size: 78px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #fff;
+  text-align: center;
+}
+
+.fame {
+  width: 352px;
+  height: 68px;
+  opacity: 0.55;
+  font-size: 28px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.footersection {
+  background-color: black;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-link2 {
+  width: 445px;
+  height: 72px;
+  opacity: 0.55;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+}
+
+.nav-item {
+  align-content: center;
+}
+
+/* .Landing1 {
+  width: 1280px;
+  height: 920px;
+  transform: skewY(-12deg);
+  transform-origin: 0; */
+/* } */
+
+.
